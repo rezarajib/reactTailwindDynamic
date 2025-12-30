@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "name": "Starter",
+    "price": 1200,
+    "duration": "month",
+    "description": "ব্যায়াম শুরু করার জন্য একদম উপযুক্ত এবং সাশ্রয়ী প্যাকেজ।",
+    "features": [
+      "Access to Gym Equipment",
+      "Locker Room & Shower Access",
+      "Complimentary Water Bottle",
+      "Free Fitness Evaluation",
+      "Gym Mobile App Access",
+      "Standard Gym Hours (6am-9pm)",
+      "Standard Community Support"
+    ],
+    "isPopular": false
+  },
+  {
+    "id": 2,
+    "name": "Elite",
+    "price": 3500,
+    "duration": "month",
+    "description": "সেরা রেজাল্টের জন্য আমাদের সবচাইতে জনপ্রিয় এবং আধুনিক সুবিধা।",
+    "features": [
+      "24/7 Unlimited Gym Access",
+      "All Starter Plan Features",
+      "Unlimited Yoga & Cardio Classes",
+      "Sauna & Steam Bath Access",
+      "Complimentary Towel Service",
+      "Weekly Protein Shake (1x)",
+      "Smart Body Tracking & Analysis",
+      "Invites to Nutrition Seminars"
+    ],
+    "isPopular": true
+  },
+  {
+    "id": 3,
+    "name": "Legend",
+    "price": 9500,
+    "duration": "3 months",
+    "description": "যারা একদম প্রফেশনাল গাইডেন্স এবং ভিআইপি প্রিমিয়াম সুবিধা খুঁজছেন।",
+    "features": [
+      "Everything in Elite Plan",
+      "Dedicated Personal Trainer",
+      "Customized Nutrition & Diet Plan",
+      "Private VIP Locker Facility",
+      "Monthly Full Body Composition Scan",
+      "1 Massage Therapy Session/Month",
+      "Free Premium Gym Apparel",
+      "Priority Support & Fast Booking"
+    ],
+    "isPopular": false
+  }
+]
